@@ -10,7 +10,6 @@
     "clean": "docker compose --env-file .env down -v"
   },
   "repository": {
-    "type": "git",
     "url": "git+https://github.com/toManyCat/2025-backend-camp.git"
   },
   "author": "",
